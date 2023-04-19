@@ -16,7 +16,7 @@ Activate Account to get the API Key
 
 >**SETUP PROGRAM**
 
-```python3 setup install```
+```python3 setup.py install```
 
 **Setup API KEY:**
 
